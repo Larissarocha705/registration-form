@@ -1,6 +1,4 @@
 # registration-form
-
-markdown
 # 📝 Criar Conta - Formulário de Registro
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -10,12 +8,9 @@ markdown
 
 > Formulário de cadastro de usuário com design moderno, responsivo e funcionalidade de mostrar/ocultar senha.
 
-![Preview do Formulário](./screenshot.png)
+## 🖼️ Demonstração
 
-## 🎨 Demonstração
-
-<!-- Adicione aqui um GIF ou imagem do formulário funcionando -->
-![Tela do formulário](./screenshot.png)
+![Prévia do Formulário](./image.png)
 
 ## ✨ Funcionalidades
 
