@@ -10,7 +10,7 @@
 
 ## 🖼️ Demonstração
 
-![Prévia do Formulário](./image.png)
+![banner_formulario](./image.png)
 
 ## ✨ Funcionalidades
 
