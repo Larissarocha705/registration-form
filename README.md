@@ -10,7 +10,7 @@
 
 ## 🖼️ Demonstração
 
-![banner_formulario](./image.png)
+<img width="1782" height="818" alt="banner_formulario" src="https://github.com/user-attachments/assets/13ffb858-05e1-4355-a0d3-2101f924e853" />
 
 ## ✨ Funcionalidades
 
